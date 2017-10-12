@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="stylesheet.css"/>
+        <title>Carta n</title>
+    </head>
+    <body>
+        <div class="hoja">
+            <div class=carta>
+                <p>
+                    <br><br>
+                    <!--aca se escrive la carta-->
+                </p>
+                
+            </div>
+        </div>
+        <div class="menu">
+            <div class="boton">
+                <a href="donde este hosteada la pagina anterior"><--Anterior</a>    
+            </div>
+            <div class="boton">
+                    <div class="capitulo">
+                        <h3><a>Carta n</a></h3>
+                    </div>
+            </div>
+            <div class="boton">
+                <div class="derecha">
+                    <a href="donde este hosteada la pagina siguiente">Siguiente--></a>    
+                </div>
+            </div>
+                       <ul class="capitulos">
+                        <li><a href="https://porti-magic.github.io/cartas">Portada</a></li>
+                        <li><a href="https://porti-magic.github.io/cartas/Carta%201/">Carta 1</a></li>
+                        <li><a href="https://porti-magic.github.io/cartas/Carta%202/">Carta 2</a></li>
+                        <li><a href="https://porti-magic.github.io/cartas/Carta%203/">Carta 3</a></li>
+                        <li><a href="https://porti-magic.github.io/cartas/Carta%204/">Carta 4</a></li>
+                        <li><a href="https://porti-magic.github.io/cartas/Carta%205/">Carta 5</a></li>
+                        <li><a href="https://porti-magic.github.io/cartas/Carta%206/">Carta 6</a></li>
+                        <li><a href="https://porti-magic.github.io/cartas/Carta%207/">Carta 7</a></li>
+                        <li><a href="https://porti-magic.github.io/cartas/Carta%208/">Carta 8</a></li>
+                        <li><a href="https://porti-magic.github.io/cartas/Carta%209/">Carta 9</a></li>
+                        <li><a href="https://porti-magic.github.io/cartas/Carta%2010/">Carta 10</a></li>
+                        <li><a href="https://porti-magic.github.io/cartas/Carta%2011/">Carta 11</a></li>
+                        <li><a href="https://porti-magic.github.io/cartas/Carta%2012/">Carta 12</a></li>
+                        <li><a href="https://porti-magic.github.io/cartas/Carta%2013/">Carta 13</a></li>
+                        <li><a href="https://porti-magic.github.io/cartas/Carta%2014/">Carta 14</a></li>
+                        <li><a href="https://porti-magic.github.io/cartas/Carta%2015/">Carta 15</a></li>
+                        <li><a href="https://porti-magic.github.io/cartas/Carta%2016/">Carta 16</a></li>
+                        <li><a href="https://porti-magic.github.io/cartas/Carta%2017/">Carta 17</a></li>
+                        <li><a href="https://porti-magic.github.io/cartas/Carta%2018/">Carta 18</a></li>
+                        <li><a href="https://porti-magic.github.io/cartas/Carta%2019/">Carta 19</a></li>
+                        <li><a href="https://porti-magic.github.io/cartas/Carta%2020/">Carta 20</a></li>
+                        <li><a href="https://porti-magic.github.io/cartas/Carta%2021/">Carta 21</a></li>
+                        <li><a href="https://porti-magic.github.io/cartas/Carta%2022/">Carta 22</a></li>
+                        <li><a href="https://porti-magic.github.io/cartas/Epilogo">Epílogo</a></li>
+            </ul>
+        </div>
+    </body>
+</html>
