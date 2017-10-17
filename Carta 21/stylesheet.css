@@ -65,3 +65,8 @@ img{
     display: inline-block;
     width: 45%;
 }
+
+.adelante{
+    position: relative;
+    left: 95px;
+}
