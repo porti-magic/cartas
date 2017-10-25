@@ -63,5 +63,7 @@ a{
 
 img{
     display: inline-block;
-    width: 45%;
+    width: 35%;
+    position: relative;
+    left: 175px;
 }
